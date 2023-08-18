@@ -28,7 +28,7 @@ conda activate myenv
 pip install -r requirements.txt
 ```
    - The batch-size=90 assumes your have a graphics card with 24GB video memory,e,g NVIDIA GeForce RTX 3090, for Antico training.You may reduce the batch size if you have less video memory.
-   - Our code utilizes ‘PyTorch’ 2.0 to further enhance training speed.
+   - Our code utilizes `PyTorch 2.0` to further enhance training speed.
 
 How to use
 ---
